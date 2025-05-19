@@ -11,7 +11,7 @@ Based on these findings, **targeted recommendations** were developed to encourag
 ---
 
 ## 📑 Table of Contents
-1. [Business_Problem]
+1. [Business_Problem](https://github.com/NISHA-R-DATA/Cyclistic-Ride-Analytics-Behavioral-Segmentation-for-Membership-Growth?tab=readme-ov-file#-business-problem)
 2. [Data_Source_Overview]
 3. [Tools_&_Libraries]
 4. [Methodology]
