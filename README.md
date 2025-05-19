@@ -11,13 +11,13 @@ Based on these findings, **targeted recommendations** were developed to encourag
 ---
 
 ## 📑 Table of Contents
-1. [Business_Problem](https://github.com/NISHA-R-DATA/Cyclistic-Ride-Analytics-Behavioral-Segmentation-for-Membership-Growth?tab=readme-ov-file#-business-problem)
-2. [Data_Source_Overview]
-3. [Tools_&_Libraries]
-4. [Methodology]
-5. [Key_Insights]
-6. [Strategic Recommendations]
-7. [Conclusion]
+1. [Business Problem](https://github.com/NISHA-R-DATA/Cyclistic-Ride-Analytics-Behavioral-Segmentation-for-Membership-Growth?tab=readme-ov-file#-business-problem)
+2. [Dataset Overview](https://github.com/NISHA-R-DATA/Cyclistic-Ride-Analytics-Behavioral-Segmentation-for-Membership-Growth?tab=readme-ov-file#-dataset-overview)
+3. [Tools & Libraries](https://github.com/NISHA-R-DATA/Cyclistic-Ride-Analytics-Behavioral-Segmentation-for-Membership-Growth?tab=readme-ov-file#%EF%B8%8F-tools--libraries)
+4. [Methodology](https://github.com/NISHA-R-DATA/Cyclistic-Ride-Analytics-Behavioral-Segmentation-for-Membership-Growth?tab=readme-ov-file#methodology)
+5. [Key Insights](https://github.com/NISHA-R-DATA/Cyclistic-Ride-Analytics-Behavioral-Segmentation-for-Membership-Growth?tab=readme-ov-file#-key-insights)
+6. [Strategic Recommendations](https://github.com/NISHA-R-DATA/Cyclistic-Ride-Analytics-Behavioral-Segmentation-for-Membership-Growth?tab=readme-ov-file#-strategic-recommendations)
+7. [Conclusion](https://github.com/NISHA-R-DATA/Cyclistic-Ride-Analytics-Behavioral-Segmentation-for-Membership-Growth?tab=readme-ov-file#-conclusion)
 
 ---
 
