@@ -1,3 +1,4 @@
+![title_image](https://github.com/user-attachments/assets/e63e5938-58da-4ea7-b322-c65066ac807c)
 
 
 ## 📘 Project Overview 
@@ -244,17 +245,16 @@ Used matplotlib, seaborn, and plotly to uncover user behavior patterns:
 ## 🎯 Strategic Recommendations
 Based on the insights obtained, the following marketing strategies are recommended to convert casual riders into annual members:
 
-1. **Seasonal Membership Promotions**:
-   Launch limited-time summer membership discounts to capitalize on peak ridership from May through September.
-3. **Weekend-Focused Campaigns**: Design campaigns emphasizing cost-effective, unlimited weekend rides to attract leisure riders.
-4. **Geo-Targeted Advertising**: Deploy advertisements near popular casual rider hubs such as Millennium Park, Navy Pier, and Lakefront Trail to promote membership benefits.
-5. **In-App Cost Comparison Alerts**: Implement real-time ride tracking that shows casual users how much they could save by switching to an annual plan during longer rides.
-6. **Trial Membership Offers**: Introduce 30-day trial memberships or "membership lite" options to lower commitment barriers.
-7. **Personalized Messaging Based on Ride Behavior**: Use app and email notifications triggered by frequent or long-duration casual rides to promote tailored membership offers.
-8. **Electric Bike Perk Promotions**: Highlight the lower per-minute cost and extended access to e-bikes available exclusively to members to convert electric bike users.
-9. **Member Perks Awareness Campaigns**: Use clear visuals—such as infographics and reels—to educate riders on membership perks like unlimited 45-minute rides, priority docking, and advanced app features.
-10. **Local Partnership Bundles**: Partner with hotels, events, and attractions to offer bundled deals, such as “Stay & Ride” or “Tourist Membership Pass.”
-11. **Gamified Incentives for Casual Users**: Reward frequent riders with perks like “ride X times, earn a free month” to encourage commitment.
+1. **Seasonal Membership Promotions**:Launch limited-time summer membership discounts to capitalize on peak ridership from May through September.
+2. **Weekend-Focused Campaigns**: Design campaigns emphasizing cost-effective, unlimited weekend rides to attract leisure riders.
+3. **Geo-Targeted Advertising**: Deploy advertisements near popular casual rider hubs such as Millennium Park, Navy Pier, and Lakefront Trail to promote membership benefits.
+4. **In-App Cost Comparison Alerts**: Implement real-time ride tracking that shows casual users how much they could save by switching to an annual plan during longer rides.
+5. **Trial Membership Offers**: Introduce 30-day trial memberships or "membership lite" options to lower commitment barriers.
+6. **Personalized Messaging Based on Ride Behavior**: Use app and email notifications triggered by frequent or long-duration casual rides to promote tailored membership offers.
+7. **Electric Bike Perk Promotions**: Highlight the lower per-minute cost and extended access to e-bikes available exclusively to members to convert electric bike users.
+8. **Member Perks Awareness Campaigns**: Use clear visuals—such as infographics and reels—to educate riders on membership perks like unlimited 45-minute rides, priority docking, and advanced app features.
+9. **Local Partnership Bundles**: Partner with hotels, events, and attractions to offer bundled deals, such as “Stay & Ride” or “Tourist Membership Pass.”
+10. **Gamified Incentives for Casual Users**: Reward frequent riders with perks like “ride X times, earn a free month” to encourage commitment.
 
 ---
 
