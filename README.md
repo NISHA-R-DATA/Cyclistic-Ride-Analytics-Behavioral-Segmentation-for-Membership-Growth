@@ -50,7 +50,7 @@ This project leverages publicly available trip data from **Cyclistic**, a Chicag
 
 ---
 
-## Methodology:
+## Methodology
 This section outlines the **end-to-end process** followed to acquire, clean, transform, and analyze Divvy bike-share trip data for the year 2023.
 
 ### 📥 1. Data Acquisition
@@ -258,7 +258,7 @@ Based on the insights obtained, the following marketing strategies are recommend
 
 ---
 
-## 🏁 Conclusion:
+## 🏁 Conclusion
 This project provided an **in-depth analysis** of **Cyclistic’s 2023 bike-share data**, revealing clear **behavioral differences** between **casual riders** and **annual members**. **Casual users** primarily ride for **leisure**, with **longer trips** and **seasonal peaks**, while **members** show consistent, **commute-focused patterns** year-round. These insights highlight key opportunities for **targeted marketing** to convert casual riders into **loyal members**. By leveraging **seasonal promotions**, **geo-targeted campaigns**, **personalized messaging**, and **member perks**, Cyclistic can effectively **increase membership** and **optimize rider engagement**. The analysis underscores the value of **data-driven strategies** in enhancing **user retention** and driving **business growth**.
 
 ---
